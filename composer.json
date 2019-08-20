@@ -1,17 +1,17 @@
 {
-    "name": ":vendor/omnipay-:gateway",
-    "description": ":package_description",
+    "name": "selwyntcy/omnipay-cuhkjetco",
+    "description": "Omnipay driver for CUHK Jetco payment gateway",
     "keywords": [
         "omnipay",
-        ":gateway"
+        "cuhkjetco"
     ],
-    "homepage": "https://github.com/:vendor/omnipay-:gateway",
+    "homepage": "https://github.com/selwyntcy/omnipay-cuhkjetco",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website"
+            "name": "Selwyn Tang",
+            "email": "selwyntcy@gmail.com",
+            "homepage": "https://github.com/selwyntcy"
         }
     ],
     "require": {
