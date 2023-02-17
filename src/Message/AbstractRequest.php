@@ -1,6 +1,6 @@
 <?php
 
-namespace Omnipay\Skeleton\Message;
+namespace Omnipay\CUHKJetco\Message;
 
 use Omnipay\Common\Message\AbstractRequest as BaseAbstractRequest;
 
