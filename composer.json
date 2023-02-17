@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Omnipay\\CUHKJetco\\": "src"
+            "Omnipay\\CUHKJetco\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "League\\CUHKJetco\\Test\\": "tests"
+            "Omnipay\\CUHKJetco\\Test\\": "tests/"
         }
     },
     "scripts": {
